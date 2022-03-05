@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/git-EAB300?style=for-the-badge&logo=git&logoColor=white">
 
 ### Contect
-📌 anfqlc1127@Gmail.com
+📌 anfqlc1127@gmail.com
 
 ### Velog
 📌 https://velog.io/@imfromk
