@@ -2,7 +2,7 @@
 
 # This is Dongyeon Kang from KOR
 ---
-- ✅ I’m currently learning in Aiffel
+- ✅ I’m currently learning AI in Aiffel
 - 🧨 I’m interested in ML/DS, especially in Computer Vision👩‍💻
 - 📘 I’m studying to become an ML engineer.
 
