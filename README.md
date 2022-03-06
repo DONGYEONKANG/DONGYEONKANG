@@ -20,8 +20,8 @@
 📌 anfqlc1127@gmail.com
 
 ### Velog & notion
-- 👩‍💻 [imfromk_velog]https://velog.io/@imfromk
-- 📱 [Dongyeon_Kang_notion]https://imfromk.notion.site/Dongyeon-Kang-95dea50b373042afa4c834318229f80f
+- 👩‍💻 [imfromk_velog](https://velog.io/@imfromk)
+- 📱 [Dongyeon_Kang_notion](https://imfromk.notion.site/Dongyeon-Kang-95dea50b373042afa4c834318229f80f)
 
 
 
