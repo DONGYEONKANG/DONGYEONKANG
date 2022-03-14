@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# This is Dongyeon Kang from KOR
+# This is DONGYEON KANG from Kor
 ---
 - ✅ I’m currently learning AI in Aiffel
 - 🧨 I’m interested in ML/DS, especially in Computer Vision👩‍💻
